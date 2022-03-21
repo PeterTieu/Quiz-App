@@ -1,0 +1,36 @@
+QUESTION 1 - Android Architecture
+The Linux Kernel...
+provides the abstract layer between the hardware and the software stack
+is an application runtime environment used by the Android OS
+is an application used for software development
+QUESTION 2 - Input controls
+Which of the following are input control elements?
+FrameLayout
+RecyclerView
+EditText
+QUESTION 3 - Android Components
+A Toast in the context of Android OS...
+allows users to select one or more options from a set
+provides simple feedback about an operation in a small popup
+is a codename for one of the Android versions
+QUESTION 4 - Activity Lifecycle
+The activity lifecycle is...
+an integer designating the minimum API level required for the application 
+a base class for widgets, used to create interactive UI components
+a set of states and methods performed at each state of the application
+QUESTION 5 - Activity Lifecycle
+Which of the following callbacks are called in sequence when creating a new instance of an activity?
+onCreate(), onStart(), onResume()
+onStop(), onRestart(), onDestroy()
+onResume(), onPause(), onStop()
+QUESTION 6 - Intents
+What can an Intent perform?
+It can kill the current APPLICATION (not activity) and start a completely different one
+It can allow a component to request functionality from another component of the Android system 
+It can modify the minimum SDK of the current application
+QUESTION 7 - Back Stack
+What is a Task?
+It is a a general framework for saving and retrieving persistent key-value pairs of primitive data types
+It is a collection of activities, arranged in a stack, in the order in which each is opened
+It is a set of core libraries that enables developers to write android apps using Java Programming language
+END OF FILE
